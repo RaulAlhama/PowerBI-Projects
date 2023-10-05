@@ -22,4 +22,4 @@ The "Human Resources Analytics" project provides valuable insights into HR data,
 
 ---
 
-We hope you find these Power BI projects useful and insightful. Explore, learn, and contribute to the world of data visualization with Power BI!
+I hope you find these Power BI projects useful and insightful. Explore, learn, and contribute to the world of data visualization with Power BI!
